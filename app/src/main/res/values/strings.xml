@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Manual Fragment Example</string>
+    <string name="fragment_two">Fragment TWO</string>
+    <string name="fragment_one">Fragment ONE</string>
+    <string name="frag_1">Frag 1</string>
+    <string name="frag_2">Frag 2</string>
+    <string name="my_fragment_app">Frag2Frag</string>
+</resources>
